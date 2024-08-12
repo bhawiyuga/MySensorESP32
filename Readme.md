@@ -1,9 +1,5 @@
 # ESP32 Client-Server WiFi Demo
 
----
-
-# ESP32 Sensor Data Collection Project
-
 This project consists of an ESP32 client that reads sensor data and sends it to a Python-based server over HTTPS. The project is structured using the PlatformIO directory structure, and the server is located in the `server` directory. This guide will walk you through setting up both the client and server environments.
 
 ## Table of Contents
